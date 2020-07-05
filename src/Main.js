@@ -2,7 +2,7 @@ import React from 'react';
 import { Switch, Route } from 'react-router-dom';
 
 import Home from './pages/Home';
-import Bookings from 'highflyer/src/pages/Bookings';
+import Bookings from './pages/Bookings';
 
 const Main = () => {
   return (
